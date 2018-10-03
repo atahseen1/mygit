@@ -1,0 +1,13 @@
+Git Internals.
+Basic workflow.
+Branching.
+Reverting changes.
+Rewriting history
+Collaborating and using Git as a team.
+Advanced commands.
+Common tips and tricks.
+Extra tools.
+
+https://www.smashingmagazine.com/2008/09/the-top-7-open-source-version-control-systems/
+https://dzone.com/articles/advanced-git-commands-rewriting-history
+https://www.atlassian.com/git/tutorials/what-is-version-control
