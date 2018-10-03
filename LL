@@ -1,1 +1,44 @@
 You are my sweatest janu
+Janu, I forked your repository after logging in with my username. So, from my gui I seem below is my forked repo link,
+https://github.com/suhimast/mygit
+
+For this repo, I am the owner. Like me multiple users can fork your repo and work on same source.
+
+I am committing this change, to my repo. Then will raise a pull request to merge it to your main repo.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
