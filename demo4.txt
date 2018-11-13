@@ -1,0 +1,3 @@
+staging git twice
+this file is duplicated
+
