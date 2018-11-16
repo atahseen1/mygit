@@ -1,5 +1,0 @@
-staging git twice
-this file is duplicated
-this file is edited again after commiting it
-file remodification
-

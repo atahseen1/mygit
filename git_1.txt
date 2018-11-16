@@ -11,3 +11,9 @@ Extra tools.
 https://www.smashingmagazine.com/2008/09/the-top-7-open-source-version-control-systems/
 https://dzone.com/articles/advanced-git-commands-rewriting-history
 https://www.atlassian.com/git/tutorials/what-is-version-control
+
+Now the already existing git_1.txt file is being modified.
+1
+2
+3
+

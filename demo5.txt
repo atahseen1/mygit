@@ -1,1 +1,3 @@
 file createin again for testing multiple commits at a time.
+aediting file again after moving to staging area.
+
